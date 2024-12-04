@@ -1,1 +1,1 @@
-`Deep Learning projects` 'cnn','transfer learning'
+`Deep Learning projects` <b>cnn,transfer learning</b>
