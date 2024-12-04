@@ -1,0 +1,13 @@
+prefix=C:/Users/Kunal.Mishra/OneDrive - Motherson Group/Desktop/aws bedrock/venv6/Library
+exec_prefix=C:/Users/Kunal.Mishra/OneDrive - Motherson Group/Desktop/aws bedrock/venv6/Library
+libdir=C:/Users/Kunal.Mishra/OneDrive - Motherson Group/Desktop/aws bedrock/venv6/Library/lib
+sharedlibdir=C:/Users/Kunal.Mishra/OneDrive - Motherson Group/Desktop/aws bedrock/venv6/Library/lib
+includedir=C:/Users/Kunal.Mishra/OneDrive - Motherson Group/Desktop/aws bedrock/venv6/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
